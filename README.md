@@ -41,7 +41,7 @@ _Originally written by Aaron Swartz. This code is distributed under the GPLv3._
 2. Update the version in `setup.py`
 3. Run `python setup.py sdist upload`
 
-## How to run unit tests
+## How to run unit for the test
 
     cd test/
     python run_tests.py
